@@ -90,9 +90,6 @@ function App() {
               <td>{carrier}</td>
               <td>{status}</td>
               <td>{eventDate}</td>
-              {/* <td className='opration'>
-                    <button className='button' onClick={() => removeData(id)}>Delete</button>
-                </td> */}
             </tr>
           );
         } else {
